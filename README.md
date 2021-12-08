@@ -1,2 +1,2 @@
 # ASMtpu
-Работы на ASSAMBLER
+Лабы в ТПУ
